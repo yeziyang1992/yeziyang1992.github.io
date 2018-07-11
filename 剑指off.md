@@ -114,5 +114,5 @@ def quick_sort(self, list):
 >3、再对左右区间重复第二步，直到各区间只有一个数
 
 #### 原博客地址
-https://blog.csdn.net/u010005281/article/details/80085476
+https://blog.csdn.net/u010005281/article/details/80085476     
 https://blog.csdn.net/code_ac/article/details/74158681
